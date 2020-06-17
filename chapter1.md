@@ -2,6 +2,14 @@
 author: Meiying Wang, Chao Wang
 date: "2020/6/17"
 
+Three goals that virtually define an effective presentation:
+- Goal 1: Connect with your audience.
+  Your message should connect with the goals and interests of your audience.
+- Goal 2: Direct and hold attention.
+  You should lead the audience to pay attention to what's important.
+- Goal 3: Promote understanding and memory.
+  Your presentation should be easy to follow, digest, and remember.
+
 ## Chapter 1 Communication: clearly & effectively
 3 Goals + 8 Principles
 
@@ -39,7 +47,7 @@ date: "2020/6/17"
 - our visual systems register relative proportions, not absolute amounts  
 	e.g. if all is big and bold, nothing stands out. 
 
-#### P5: priciple of perceptual organization
+#### P5: principle of perceptual organization
 - people automatically group elements into units, which they can attend to and remember  
 	- *Perceptual organization: Pragnanz求简, similarity, proximity, good continuation, common fate (move together), common region, uniform connectedness, synchrony, meaningfulness (notes from my perception course)*
     
@@ -47,16 +55,21 @@ date: "2020/6/17"
 
 #### P6: principle of compaticility
 - a messege is easiest to understand if its form is compatible with its meaning.   
-	e.g.: illustrate number/time from left to right
+	e.g.: illustrate number/time from left to right; Stroop's test
 - "more is more": a larger area/ longer bar conveys "more" by instinct  (explain or change when "more is less")
 
 
 #### P7: principle of informative changes
-- every visible/ auditory change should convey information
+- every visible/ auditory change should convey information. Do not include decorations or interesting visual changes.
 - every change in meaning should be conveyed by a change in appearance 
 
 #### P8: principle of capacity limitations: no too much information at the same time
-- rule of four: the audience cannot hold in mind more than four groups of information at once 
+- **rule of four**: the audience cannot hold in mind more than four groups of information at once. But each group itself can contain four groups.
 - break down the points/ define perceptual groups with cues
 - reduce audience's need to search for/ mentally transform information  
 	e.g.: present tables when you are mentalizing a table while speaking
+
+#### Making Points in a PowerPoint Presentation: An Example
+
+**An example of a bad presentation on page 14**
+
